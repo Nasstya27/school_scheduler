@@ -1,12 +1,11 @@
 {
     "Иванов": {
         "Понедельник": [
+            null,
             {
                 "class": "10А",
                 "subject": "Математика"
             },
-            null,
-            null,
             {
                 "class": "10А",
                 "subject": "Физика"
@@ -15,46 +14,47 @@
                 "class": "10А",
                 "subject": "Физика"
             },
+            null,
             null,
             null,
             null
         ],
         "Вторник": [
+            null,
+            null,
+            {
+                "class": "9В",
+                "subject": "Математика"
+            },
+            null,
+            null,
             {
                 "class": "10А",
                 "subject": "Информатика"
             },
             {
-                "class": "9В",
-                "subject": "Математика"
-            },
-            null,
-            null,
-            null,
-            {
                 "class": "10А",
                 "subject": "Математика"
             },
-            null,
             null
         ],
         "Среда": [
-            null,
-            {
-                "class": "9В",
-                "subject": "Физика"
-            },
-            null,
             {
                 "class": "11Б",
                 "subject": "Информатика"
             },
-            null,
-            null,
             {
                 "class": "9В",
                 "subject": "Физика"
             },
+            {
+                "class": "9В",
+                "subject": "Физика"
+            },
+            null,
+            null,
+            null,
+            null,
             null
         ],
         "Четверг": [
@@ -80,7 +80,6 @@
     },
     "Петрова": {
         "Понедельник": [
-            null,
             {
                 "class": "11Б",
                 "subject": "Русский язык"
@@ -88,18 +87,16 @@
             null,
             null,
             null,
-            {
-                "class": "11Б",
-                "subject": "Литература"
-            },
+            null,
             {
                 "class": "10А",
                 "subject": "Русский язык"
             },
             {
-                "class": "9В",
-                "subject": "Русский язык"
-            }
+                "class": "11Б",
+                "subject": "Литература"
+            },
+            null
         ],
         "Вторник": [
             {
@@ -107,30 +104,30 @@
                 "subject": "Русский язык"
             },
             null,
-            null,
             {
                 "class": "10А",
                 "subject": "Русский язык"
             },
             {
                 "class": "9В",
-                "subject": "Английский язык"
+                "subject": "Литература"
             },
             null,
             {
                 "class": "9В",
-                "subject": "Литература"
+                "subject": "Английский язык"
             },
+            null,
             null
         ],
         "Среда": [
+            null,
+            null,
+            null,
             {
                 "class": "10А",
                 "subject": "Литература"
             },
-            null,
-            null,
-            null,
             null,
             null,
             null,
@@ -163,48 +160,48 @@
             null,
             null,
             null,
+            null,
+            null,
+            null,
             {
                 "class": "9В",
                 "subject": "История"
-            },
-            null,
-            null,
-            null
+            }
         ],
         "Вторник": [
             null,
             null,
             null,
             null,
+            null,
+            null,
             {
                 "class": "11Б",
                 "subject": "История"
             },
-            null,
-            null,
             {
                 "class": "9В",
                 "subject": "Обществознание"
             }
         ],
         "Среда": [
-            {
-                "class": "11Б",
-                "subject": "Обществознание"
-            },
-            null,
-            null,
-            null,
-            null,
             null,
             {
                 "class": "10А",
                 "subject": "История"
             },
+            null,
+            null,
             {
                 "class": "10А",
                 "subject": "Обществознание"
-            }
+            },
+            {
+                "class": "11Б",
+                "subject": "Обществознание"
+            },
+            null,
+            null
         ],
         "Четверг": [
             null,
@@ -253,27 +250,27 @@
                 "class": "9В",
                 "subject": "Биология"
             },
-            null,
+            {
+                "class": "11Б",
+                "subject": "Химия"
+            },
             {
                 "class": "10А",
                 "subject": "Биология"
             },
+            {
+                "class": "11Б",
+                "subject": "Химия"
+            },
+            null,
             {
                 "class": "9В",
                 "subject": "Биология"
             },
+            null,
             {
                 "class": "10А",
                 "subject": "Биология"
-            },
-            {
-                "class": "11Б",
-                "subject": "Химия"
-            },
-            null,
-            {
-                "class": "11Б",
-                "subject": "Химия"
             }
         ],
         "Четверг": [
@@ -319,25 +316,28 @@
             null
         ],
         "Среда": [
-            null,
             {
                 "class": "10А",
                 "subject": "География"
             },
-            null,
             null,
             {
                 "class": "11Б",
                 "subject": "Экономика"
             },
             {
+                "class": "9В",
+                "subject": "Экономика"
+            },
+            null,
+            null,
+            {
                 "class": "10А",
                 "subject": "География"
             },
-            null,
             {
-                "class": "9В",
-                "subject": "Экономика"
+                "class": "11Б",
+                "subject": "География"
             }
         ],
         "Четверг": [
@@ -363,33 +363,33 @@
     },
     "Андреева": {
         "Понедельник": [
+            null,
+            null,
+            null,
+            null,
             {
                 "class": "9В",
                 "subject": "Математика"
             },
             null,
             null,
+            {
+                "class": "10А",
+                "subject": "Математика"
+            }
+        ],
+        "Вторник": [
+            null,
             null,
             null,
             {
                 "class": "10А",
                 "subject": "Математика"
             },
-            null,
-            null
-        ],
-        "Вторник": [
-            null,
             {
                 "class": "10А",
                 "subject": "Информатика"
             },
-            {
-                "class": "10А",
-                "subject": "Математика"
-            },
-            null,
-            null,
             null,
             null,
             null
@@ -399,12 +399,12 @@
             null,
             null,
             null,
-            null,
-            null,
             {
                 "class": "11Б",
                 "subject": "Информатика"
             },
+            null,
+            null,
             null
         ],
         "Четверг": [
@@ -430,10 +430,25 @@
     },
     "Соколова": {
         "Понедельник": [
+            null,
+            null,
             {
                 "class": "11Б",
                 "subject": "Литература"
             },
+            null,
+            null,
+            null,
+            {
+                "class": "10А",
+                "subject": "Английский язык"
+            },
+            {
+                "class": "11Б",
+                "subject": "Английский язык"
+            }
+        ],
+        "Вторник": [
             {
                 "class": "10А",
                 "subject": "Английский язык"
@@ -441,43 +456,28 @@
             null,
             null,
             null,
-            null,
-            {
-                "class": "11Б",
-                "subject": "Английский язык"
-            },
-            null
-        ],
-        "Вторник": [
             {
                 "class": "9В",
                 "subject": "Английский язык"
             },
-            null,
             {
                 "class": "11Б",
                 "subject": "Английский язык"
             },
             null,
-            null,
-            null,
-            {
-                "class": "10А",
-                "subject": "Английский язык"
-            },
             null
         ],
         "Среда": [
             null,
             null,
+            null,
+            null,
+            null,
+            null,
             {
                 "class": "9В",
                 "subject": "Литература"
             },
-            null,
-            null,
-            null,
-            null,
             null
         ],
         "Четверг": [
@@ -504,25 +504,25 @@
     "Михайлова": {
         "Понедельник": [
             null,
+            null,
+            null,
+            null,
+            null,
+            null,
             {
                 "class": "9В",
                 "subject": "История"
             },
-            null,
-            null,
-            null,
-            null,
-            null,
             null
         ],
         "Вторник": [
+            null,
+            null,
             null,
             {
                 "class": "11Б",
                 "subject": "История"
             },
-            null,
-            null,
             null,
             null,
             null,
@@ -530,12 +530,11 @@
         ],
         "Среда": [
             null,
+            null,
+            null,
+            null,
             {
-                "class": "11Б",
-                "subject": "География"
-            },
-            {
-                "class": "11Б",
+                "class": "9В",
                 "subject": "География"
             },
             {
@@ -543,15 +542,13 @@
                 "subject": "История"
             },
             {
-                "class": "9В",
+                "class": "11Б",
                 "subject": "География"
             },
             {
                 "class": "9В",
                 "subject": "География"
-            },
-            null,
-            null
+            }
         ],
         "Четверг": [
             null,
@@ -577,32 +574,32 @@
     "Левицкий": {
         "Понедельник": [
             null,
-            null,
-            null,
             {
                 "class": "11Б",
                 "subject": "Математика"
             },
             null,
-            null,
             {
                 "class": "9В",
                 "subject": "Математика"
             },
+            null,
+            null,
+            null,
             null
         ],
         "Вторник": [
             null,
+            {
+                "class": "11Б",
+                "subject": "Математика"
+            },
             null,
             null,
             null,
             null,
             {
                 "class": "9В",
-                "subject": "Математика"
-            },
-            {
-                "class": "11Б",
                 "subject": "Математика"
             },
             null
@@ -642,22 +639,23 @@
         "Понедельник": [
             null,
             null,
+            null,
             {
                 "class": "11Б",
                 "subject": "Русский язык"
             },
-            null,
-            null,
-            null,
-            null,
             {
                 "class": "10А",
                 "subject": "Русский язык"
-            }
+            },
+            {
+                "class": "9В",
+                "subject": "Русский язык"
+            },
+            null,
+            null
         ],
         "Вторник": [
-            null,
-            null,
             {
                 "class": "9В",
                 "subject": "Русский язык"
@@ -666,6 +664,8 @@
                 "class": "9В",
                 "subject": "Русский язык"
             },
+            null,
+            null,
             null,
             null,
             null,
@@ -707,15 +707,8 @@
     },
     "Орлов": {
         "Понедельник": [
-            null,
-            null,
             {
                 "class": "10А",
-                "subject": "Английский язык"
-            },
-            null,
-            {
-                "class": "11Б",
                 "subject": "Английский язык"
             },
             {
@@ -723,20 +716,27 @@
                 "subject": "Английский язык"
             },
             null,
-            null
-        ],
-        "Вторник": [
-            null,
             null,
             null,
             {
                 "class": "11Б",
                 "subject": "Английский язык"
             },
+            null,
+            null
+        ],
+        "Вторник": [
+            null,
             {
                 "class": "10А",
                 "subject": "Английский язык"
             },
+            {
+                "class": "11Б",
+                "subject": "Английский язык"
+            },
+            null,
+            null,
             null,
             null,
             null
@@ -774,34 +774,34 @@
     },
     "Белозерова": {
         "Понедельник": [
-            null,
-            null,
-            {
-                "class": "9В",
-                "subject": "Русский язык"
-            },
             {
                 "class": "9В",
                 "subject": "Английский язык"
             },
             null,
-            null,
+            {
+                "class": "9В",
+                "subject": "Русский язык"
+            },
             null,
             {
                 "class": "11Б",
                 "subject": "Математика"
-            }
+            },
+            null,
+            null,
+            null
         ],
         "Вторник": [
             null,
             null,
             null,
             null,
-            null,
             {
                 "class": "11Б",
                 "subject": "Математика"
             },
+            null,
             null,
             {
                 "class": "11Б",
